@@ -26,3 +26,13 @@
     <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/varmaadarsh/varmaadarsh/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
+
+
+
+
+<h3 align="center">Languages</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js" />
+</p>
