@@ -27,7 +27,7 @@
   </picture>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=varmaadarsh&label=Profile%20Views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=varmaadarsh&label=Profile%20Views" /> -->
 
 
 
